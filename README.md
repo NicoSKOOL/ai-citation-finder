@@ -24,7 +24,7 @@ An AI visibility tool tells you that you're not being named. This skill tells yo
 
 ## Install
 
-**Claude desktop app or claude.ai:** download this repo as a zip (Code > Download ZIP), then go to Settings > Capabilities > Skills > Upload skill. Turn on web search.
+**Claude desktop app or claude.ai:** download [ai-citation-finder.zip](https://github.com/NicoSKOOL/ai-citation-finder/releases/latest/download/ai-citation-finder.zip) (don't unzip it), then go to Settings > Capabilities > Skills > Upload skill. Turn on web search.
 
 **Claude Code:**
 
