@@ -50,10 +50,25 @@ If you've used the other AI Ranking skills, it reads your `site-brief.md` and th
 - The skill never guesses an email address, a price or a date. Anything it can't verify is marked `[CONFIRM]`.
 - No review gating, fake reviews or promotional forum posts. Communities get a genuinely helpful answer, or "skip".
 
-## Part of the free AI Ranking skill pack
-
-Join free at [skool.com/ai-ranking](https://skool.com/ai-ranking) for the rest of the skills (keyword research, content writer, on-page optimiser, internal links, AI visibility checker and more), plus the AI Search Starter Kit: https://www.airankingskool.com/you-came-here-from-socials
 
 ## License
 
 MIT
+
+---
+
+## Part of AI Ranking
+
+This is one of the free tools from **AI Ranking**, the community where we learn how to get businesses found on Google and recommended by AI (ChatGPT, Google AI Overviews, Perplexity).
+
+**Free community:** [skool.com/ai-ranking-free](https://skool.com/ai-ranking-free)  
+Every free skill in one place, with setup guides.
+
+**Premium:** [skool.com/ai-ranking](https://skool.com/ai-ranking)  
+For when you want help, not just tools:
+- Support when a skill or a site gets stuck
+- 1-1 sessions
+- Live Q&A calls
+- The full training on how to rank in AI search
+
+Built by [Nico Gorrono](https://airankingskool.com/about/)
